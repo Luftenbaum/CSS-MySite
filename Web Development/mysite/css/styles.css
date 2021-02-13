@@ -1,0 +1,41 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  margin-top: 0;
+}
+
+/************************CLASS ATRRIBUTES**************************************/
+.topcontainer {
+  background-color: #FFCFDF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middlecontainer {
+  height: 200px;
+  width: 200px;
+  background-color: #FEFDCA;
+}
+
+.bottomcontainer {
+  height: 200px;
+  width: 200px;
+  background-color: #E0F9B5;
+
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
